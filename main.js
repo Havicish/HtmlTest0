@@ -1,4 +1,3 @@
-console.log('Log');
 document.addEventListener('DOMContentLoaded', function() {
-    console.log('Page has loaded');
+    alert('Page has loaded');
 });
