@@ -1,3 +1,1 @@
-document.addEventListener('DOMContentLoaded', function() {
-    alert('Page has loaded');
-});
+alert('Page has loaded');
