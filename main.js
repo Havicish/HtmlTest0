@@ -1,7 +1,7 @@
-import E from './test.js';
+import { test, thing } from './test.js';
 
-E.test();
+test();
 
-alert(E.thing);
+alert(thing.X);
 
 alert('Page has loaded');
