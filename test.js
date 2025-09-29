@@ -1,5 +1,5 @@
 export function test() {
-  console.log('Test function called');
+  alert('Test function called');
 }
 
 export let thing = {
